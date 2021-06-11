@@ -1,0 +1,8 @@
+#+title: Learning Sockets
+
+I'm learning about UNIX sockets from
+https://beej.us/guide/bgnet/html/#lowlevel. Eventually I want to make a
+multiplayer game, and I thought understanding some of the underlying details
+would help.
+
+This might be replaced with that or another internet programming thing.
